@@ -7,3 +7,4 @@ LABEL io.openshift.tags="comp2"
 LABEL summary="A comp2 container"
 
 
+

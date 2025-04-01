@@ -5,5 +5,6 @@ LABEL io.k8s.description="This tool..."
 LABEL io.k8s.display-name="comp2"
 LABEL io.openshift.tags="comp2"
 LABEL summary="A comp2 container"
-LABEL scott="scott1"
+LABEL scott1="scott1"
+LABEL scott2="scott2"
 

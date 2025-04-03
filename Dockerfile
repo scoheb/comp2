@@ -8,4 +8,4 @@ LABEL summary="A comp2 container"
 LABEL scott1="scott1"
 LABEL scott2="scott2"
 LABEL scott3="scott3"
-
+LABEL scott4="scott4"
